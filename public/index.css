@@ -1,0 +1,44 @@
+body {
+    background-color: mediumaquamarine;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    width: auto;
+    margin: 0 auto;
+    display: block;
+    padding: 2%;
+}
+
+.too-wide {
+    width: 90%;
+}
+
+#new-cat-button {
+    text-align: center;
+    width: 14%;
+    margin: 0 43%;
+}
+
+#score-label-p, #vote-buttons-div {
+    text-align: center;
+}
+
+#comment-form {
+    text-align: center;
+}
+
+#comment-input {
+    margin: 2%;
+}
+
+#comment-display-div {
+    text-align: center;
+}
+
+.vote-button {
+    margin: 1%;
+}
